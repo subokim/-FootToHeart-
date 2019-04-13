@@ -23,7 +23,7 @@
 
 ## 아키텍처
 
-
+![architecture2](https://user-images.githubusercontent.com/35857011/56075320-7a355200-5dfb-11e9-820d-e0e7603002f8.PNG)
 
 ## 프로젝트 상세
 
